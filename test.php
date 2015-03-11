@@ -4,4 +4,4 @@ class HiWorld
 	end
 end
 
-HelloWorld.hello
+HiWorld.hello
